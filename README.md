@@ -15,7 +15,7 @@ Leveraging data analytics and business intelligence to optimize strategic decisi
 ---
 
 ## 🚀 **About Me**  
-With a background in **industrial engineering and data analytics**, I have hands-on experience in **data processing, statistical analysis, and business intelligence reporting**.  
+With a background in **Engineering and data analytics**, I have hands-on experience in **data processing, statistical analysis, and business intelligence reporting**.  
 My work involves **extracting insights from large datasets, building interactive dashboards, and optimizing data pipelines** for enhanced decision-making.  
 
 I specialize in **SQL databases, Power BI, and advanced Excel analytics**, and I enjoy exploring **data visualization and business forecasting techniques**.  

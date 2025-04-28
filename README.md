@@ -1,4 +1,4 @@
-# Jisun Yun - Data Analyst  
+# Jisun Yun   
 🚀 Passionate about Data Analytics, Business Intelligence, and Data-Driven Decision Making!  
 
 ### 🌟 Welcome to my GitHub!  
